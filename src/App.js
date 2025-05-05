@@ -6,7 +6,7 @@ import ReportFound from './components/ReportFound';
 import NotFound from './components/NotFound';
 import ViewItems from './components/ViewItems';
 
-function App() {
+function () {
   return (
     <Router>
       <div className="App">
